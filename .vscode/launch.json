@@ -11,7 +11,8 @@
             "request": "launch",
             "type": "cortex-debug",
             "servertype": "jlink",
-            "device": "STM32F103VB"
+            "device": "STM32F103VB",
+            //"preLaunchTask": "make"
         }
     ]
 }

@@ -37,7 +37,7 @@
                     "C:/Program Files (x86)/GNU Tools ARM Embedded/7 2018-q2-update/arm-none-eabi/include/newlib-nano"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
-                "databaseFilename": "${workspaceRoot}/.vscodecache/"
+                "databaseFilename": "${workspaceRoot}/.vscodecache/DB"
             },
             "compilerPath": "C:/Program Files (x86)/GNU Tools ARM Embedded/7 2018-q2-update/bin/arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb"
             
